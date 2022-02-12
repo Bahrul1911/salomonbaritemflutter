@@ -1,6 +1,7 @@
 # Salomon Bar Item
 
 A new Flutter project.
+Pub Dev Salomon https://pub.dev/packages/salomon_bottom_bar/versions/3.1.0/install
 
 ## Getting Started
 
